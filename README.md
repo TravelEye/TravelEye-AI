@@ -3,8 +3,9 @@
 개발기간 2023.9~2023.12  
 
 ### 🖥️ 프로젝트 소개
-!<img width="479" alt="poster" src="https://github.com/user-attachments/assets/96131964-8bcc-4a3c-a7f8-8ec76f88532c" />
----  
+----
+<img width="479" alt="poster" src="https://github.com/user-attachments/assets/96131964-8bcc-4a3c-a7f8-8ec76f88532c" />
+
 
 ### 🛠 아키텍처
 ----
